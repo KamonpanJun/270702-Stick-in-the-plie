@@ -9,7 +9,7 @@ Created on Sun Jul 18 10:19:37 2021
 ##user is player1
 n_sticks = int(input("How many sticks (N) in the pile:"))
 print("There are",n_sticks,"sticks in the pile.")
-player1 = input("what is your name:")
+player1 = input("what is your NAME:")
 
 if n_sticks > 0:
     print("Great! Let's play.")
